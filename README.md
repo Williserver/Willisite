@@ -1,2 +1,4 @@
 # Willisite
-Williserver website
+Files for the Williserver minecraft website.
+
+See online at williserver.net!
