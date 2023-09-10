@@ -648,21 +648,19 @@ video {
 }
 
 @media (min-width: 1024px) {
-  .lg\:h-\[calc\(100vh-8rem\)\] {
-    height: calc(100vh - 8rem);
-  }
-}
-
-@media (min-width: 1536px) {
-  .\32xl\:ml-lrg-margin {
+  .lg\:ml-lrg-margin {
     margin-left: 10vw;
   }
 
-  .\32xl\:w-btn-width-xl {
+  .lg\:h-\[calc\(100vh-8rem\)\] {
+    height: calc(100vh - 8rem);
+  }
+
+  .lg\:w-btn-width-xl {
     width: 80vw;
   }
 
-  .\32xl\:pl-lrg-margin {
+  .lg\:pl-lrg-margin {
     padding-left: 10vw;
   }
 }
