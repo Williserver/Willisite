@@ -8,7 +8,9 @@ module.exports = {
     extend: {
       spacing: {
         'std-margin': '5vw',
-        'lrg-margin': '10vw'
+        'lrg-margin': '10vw',
+        'btn-width': '90vw',
+        'btn-width-xl': '80vw',
       },
     },
   },
