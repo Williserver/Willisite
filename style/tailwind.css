@@ -653,20 +653,16 @@ video {
   }
 }
 
-@media (min-width: 1280px) {
-  .xl\:ml-lrg-margin {
+@media (min-width: 1536px) {
+  .\32xl\:ml-lrg-margin {
     margin-left: 10vw;
   }
 
-  .xl\:w-btn-width-xl {
+  .\32xl\:w-btn-width-xl {
     width: 80vw;
   }
 
-  .xl\:pl-lrg-margin {
+  .\32xl\:pl-lrg-margin {
     padding-left: 10vw;
-  }
-
-  .xl\:pl-std-margin {
-    padding-left: 5vw;
   }
 }
